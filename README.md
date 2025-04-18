@@ -7,3 +7,5 @@ Welcome to my submission for Task 4 of the Data Science Internship at Prodigy In
 **Dataset :** Here I used this dataset twitter_training.csv
 This dataset contains tweets with labeled sentiments (positive, neutral, negative) tied to specific entities (like people, products, or organizations
 
+**Tools and Libraries used :**
+
